@@ -81,7 +81,7 @@ h6{
 }
 @media(max-width : 1024px){
     .label, body{
-        font-size: 120%;
+        font-size: 110%;
     }
 }
 @media(min-width : 1024px){
