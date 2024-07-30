@@ -81,7 +81,10 @@ h6{
 }
 @media(max-width : 1024px){
     .label, body{
-        font-size: 110%;
+        font-size: 100%;
+    }
+    .lap{
+        width: 70vw;
     }
 }
 @media(min-width : 1024px){
